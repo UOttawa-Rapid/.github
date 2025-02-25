@@ -1,5 +1,5 @@
 # RAPID
-### Remotely. Access. Platform. for Intelligent. Driving.
+### Remote. Access. Platform. for Intelligent. Driving.
 
 We are making a LTE controlled Delivery Robot.
 
